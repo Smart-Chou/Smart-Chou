@@ -6,7 +6,7 @@
 
 ## Find me
 
-[![#](https://img.shields.io/badge/-Vuepress-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://codenoob.top)
+[![#](https://img.shields.io/badge/-Blog-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://codenoob.top)
 [![#](https://img.shields.io/badge/-Telegram-1DA1F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ChouCong)
 [![#](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MIFSH912)
 [![#](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/372366303/)
