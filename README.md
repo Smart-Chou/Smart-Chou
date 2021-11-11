@@ -33,4 +33,4 @@
 [![#](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![#](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![#](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![#](https://img.shields.io/badge/-Express,js-f7f7f7?style=flat-square)](https://expressjs.com/)
+[![#](https://img.shields.io/badge/-Express.js-f7f7f7?style=flat-square)](https://expressjs.com/)
