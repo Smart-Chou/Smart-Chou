@@ -1,4 +1,4 @@
-**日々私たちが过ごしている日常は、実は、奇迹の连続なのかもしれな。——「日常」**
+**世间最大的谎言，就是你不行！**
 
 ![#](https://count.getloli.com/get/@Smart-Chou?theme=moebooru-h)
 
