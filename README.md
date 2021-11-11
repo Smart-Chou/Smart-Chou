@@ -2,7 +2,7 @@
 
 ![#](https://count.getloli.com/get/@Smart-Chou?theme=moebooru-h)
 
-![#](https://github-readme-stats.vercel.app/api?username=Ice-Hazymoon&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)
+![#](https://github-readme-stats.vercel.app/api?username=Smart-Chou&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)
 
 ## Find me
 
@@ -33,4 +33,3 @@
 [![#](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![#](https://img.shields.io/badge/-Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)](https://nuxtjs.org/)
 [![#](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![#](https://img.shields.io/badge/-Express.js-f7f7f7?style=flat-square)](https://expressjs.com/)
